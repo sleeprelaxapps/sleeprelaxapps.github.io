@@ -1,5 +1,5 @@
 #meta
-facebook.com, 253625107575313, DIRECT, c3e20eee3f780d68
+facebook.com, 204360532349047, DIRECT, c3e20eee3f780d68
 
 #applovin
 applovin.com, 30767702dc082222f4bd5b8af220b6ab, DIRECT
